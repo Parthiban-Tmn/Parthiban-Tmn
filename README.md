@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **parthibantmn@gmail.com**
+- 📫 Reach me **parthibantmn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
