@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parthiban Thogaimylnathan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiban-tmn&label=Profile%20views&color=0e75b6&style=flat" alt="parthiban-tmn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthiban-tmn" alt="parthiban-tmn" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiban-tmn&label=Profile%20views&color=670c88&style=plastic" alt="parthiban-tmn" /> </p>
 
 - 🔭 I’m currently working on **Cancer Prediction**
 
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about **Data Science**
 
-- 📫 Reach me **parthibantmn@gmail.com**
+- 📫 How to reach me **parthibantmn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthiban-tmn&show_icons=true&locale=en&layout=compact" alt="parthiban-tmn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthiban-tmn&show_icons=true&locale=en" alt="parthiban-tmn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthiban-tmn&" alt="parthiban-tmn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthiban-tmn&show_icons=true&theme=dark&locale=en" alt="parthiban-tmn" /></p>
