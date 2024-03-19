@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthiban Thogaimylnathan</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Entry level AI/ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiban-tmn&label=Profile%20views&color=670c88&style=plastic" alt="parthiban-tmn" /> </p>
 
